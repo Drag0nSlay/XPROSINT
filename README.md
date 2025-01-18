@@ -1,5 +1,4 @@
 # Xprosint: OSINT Twitter Account Information Tool
-![Xprosint](XPROSINT.png)
 
 Xprosint is a tool to gather publicly available information from Twitter accounts using the Twitter API v2. It provides details such as user profile information, follower count, recent tweets, and more.
 
@@ -54,6 +53,7 @@ Before using this tool, you need the following:
 
 ## Usage
 Once the setup is complete, you can run the tool by passing a Twitter username as an argument.<br>
+![Xprosint](XPROSINT.png)
 
   `python Xprosint.py <twitter_username>`<br>
   
